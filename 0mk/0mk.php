@@ -6,7 +6,6 @@ Description: 0.mk Shortener generates a short url using the Macedonian shortener
 Version: 0.1
 Author: Boris Kuzmanov
 Author URI: http://kuzmanov.info
-Text Domain: 0mk
 */
 
 // Функција
