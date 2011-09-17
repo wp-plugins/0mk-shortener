@@ -6,15 +6,12 @@ Requirest at least: 3.0
 Tested up to: 3.2.1
 Stable tag: 0.1
 
-0mk Shortener generates a short url of your blog posts and isnert the link in the bottom of your post.
-
 == Description ==
 
-0mk Shortener generates a short url of your blog posts and isnert the link in the bottom of your post.
+0.mk Shortener генерира кратка врска за Вашите написи користејќи го македонскиот кратач на врски - Нула[точка]мк. 
 
 == Installation ==
 
-1. Upload "0mk" in the "/wp-content/plugins" directory
-2. Activate the plugin
-
-That's all. Now go on any blog post and you will see the short link after the content.
+1. Прикачете го  "0mk-shortener" ви "/wp-content/plugins" директориумот;
+2. Активирајте го додатокот.
+3. Користете го менито „0.mk Поставувања“ за да поставите сопствено корисничко име и API клуч.
