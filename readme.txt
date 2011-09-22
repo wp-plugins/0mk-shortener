@@ -4,11 +4,11 @@ Contributors: Kuzmanov
 Tags: 0mk, 0.mk, short url, share, kratac, кратач, boris kuzmanov, shortener
 Requirest at least: 3.0
 Tested up to: 3.2.1
-Stable tag: 0.2
+Stable tag: 0.1
 
 == Description ==
 
-0.mk Shortener генерира кратка врска за Вашите написи користејќи го македонскиот кратач на врски - Нула[точка]мк. 
+0.mk Shortener генерира краток линк за Вашите написи користејќи го македонскиот кратач на линкови - Нула[точка]мк. 
 
 == Installation ==
 
